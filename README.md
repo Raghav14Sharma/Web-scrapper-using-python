@@ -1,7 +1,7 @@
 # Web-scrapper-using-python
 Automated web scrapper for flipkart & amazon:
 
--Scrapper data of 82 links in under 2.5 mins
+-Scrapped data of 82 links in under 2.5 mins
 
 -Automated process 
 
